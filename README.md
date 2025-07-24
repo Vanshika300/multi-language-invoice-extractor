@@ -15,6 +15,7 @@ Multi-Language Support: Capable of interpreting invoices in various languages, l
 Interactive UI: User-friendly interface built with Streamlit for easy image upload and query input.
 
 🚀 Technologies Used
+
 Python
 
 Streamlit: For building the interactive web application.
@@ -26,7 +27,6 @@ PIL (Pillow): For image handling and processing.
 python-dotenv: For secure management of API keys.
 
 📸 Screenshots
-(Note: Replace these placeholders with actual screenshots of your running application, showing an invoice upload and a query result.)
 
 Invoice Upload Interface:
 A screenshot showing the application's interface for uploading an invoice image.
@@ -84,6 +84,7 @@ streamlit run multi_ai.py
 This command will open the application in your web browser, usually at http://localhost:8501.
 
 📧 Contact
+
 Feel free to reach out if you have any questions or feedback!
 
 Email: vanshikashukla065@gmail.com

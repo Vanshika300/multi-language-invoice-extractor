@@ -3,6 +3,7 @@
 A Streamlit web application that leverages Google Gemini's multimodal capabilities to analyze invoice images and extract information based on natural language queries. This tool simplifies data extraction from various invoice formats and languages.
 
 ✨ Features
+
 Image-to-Text Extraction: Processes uploaded invoice images (JPG/PNG) to extract relevant text and data.
 
 Natural Language Querying: Allows users to ask specific questions about the invoice content (e.g., "What is the total amount?", "Who is the vendor?", "What is the date?").
